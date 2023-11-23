@@ -149,7 +149,7 @@ https://tvembed.net/br/tc-fun/index.m3u8?token=e29acf80a405148c4dc31dd5f1fd6dcb9
 https://tvembed.net/br/tc-touch/index.m3u8?token=604ff3efe5feaf00a2e124ebdb0263c3c00eadaf-df89d17fb15e3486dcdcd88ed99a6844-1700754804-1700747604&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="warner.br" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/Warner%20Channel.png" group-title="TV",WARNER CHANNEL
-http://contentzord.gelderland.ga:2095/live/warnerchannel/chunks.m3u8
+https://tvembed.net/br/warner/index.m3u8?token=e35dd8a08691880d60e829cd2796c2bd35625b5a-e5ba964db8aa2ebdb5036c230374e40c-1700757424-1700750224&remote=177.223.106.80
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxMk4WGsAFSHvRVxaKbk2LN7cEIh2rcxZYKg&usqp=CAU" group-title="TV",DRAGON BALL SUPER T1
 http://5ce.co/live/RenanArtigas/Renan4000/156144.ts
