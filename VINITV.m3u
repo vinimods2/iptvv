@@ -9,6 +9,9 @@ https://tvembed.net/br/axn/index.m3u8?token=6d41b31b4d899c4bffd982488713a0183ff2
 #EXTINF:-1 tvg-id="START CHANNEL" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/Star%20Channel.png" group-title="TV",START CHANNEL
 https://tvembed.net/br/star/index.m3u8?token=47067c61d003b51eec043bd278ae2c08760bc41d-2aece77bb534ce2ce2cb40fb79ccbf32-1700755153-1700747953&remote=177.223.106.80
 
+#EXTINF:-1 tvg-id="START LIFE" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/Star%20Life.png" group-title="TV",START LIFE
+https://tvembed.net/br/star-plus/index.m3u8?token=56ac8e85178cec6bb23a8b4a187ca84d1719377c-b0ce156f379ec1647bbe03d11956b0d0-1700755302-1700748102&remote=177.223.106.80
+
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzST4sZ-rZyfKPKfIb40IMhVprrjRENoLhs53HpA915rxmNY1taagv6OM4&s=10" group-title="TV",AMC
 https://tvembed.net/br/amc/index.m3u8?token=480bee8a522762954dd1d7627a997a8f331d3894-50faf940f1b53ddb5e577fd833654c59-1700750062-1700742862&remote=177.223.106.80
 
@@ -36,8 +39,8 @@ http://contentzord.gelderland.ga:2095/live/espn3/chunks.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_PDPNZDutQMs0Jp_pfh8sJ54dHKyHjV7mw&usqp=CAU" group-title="TV",ESPN 4
 http://contentzord.gelderland.ga:2095/live/espn4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="fx.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjSionC5DU-xoNJ_l3jq2wezxW-kUFL40Gg&usqp=CAU" group-title="TV",FX
-http://contentzord.gelderland.ga:2095/live/fx/chunks.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/FX.png" group-title="TV",FX
+https://tvembed.net/br/fx/index.m3u8?token=2c4d5999c97d8325a924beecd2a238cc7b6f1fd5-efd9b77837f78ce31ad764a3655aa287-1700755362-1700748162&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="TV",CINEMAX
 https://tvembed.net/br/cinemax/index.m3u8?token=2524dbe838b82bd55ad3d3a33b0f61e68c0da0f3-c3b8f7ed10950036baa5e52490875672-1700750949-1700743749&remote=177.223.106.80
@@ -81,8 +84,14 @@ http://contentzord.gelderland.ga:2095/live/sportv/chunks.m3u8
 #EXTINF:-1 tvg-id="space.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuYE-b_FtTEalJ1ciFOec4CaWA6cGVUFiFVQ&usqp=CAU" group-title="TV",SPACE
 https://tvembed.net/br/space/index.m3u8?token=e8f90ed6d4cc99f1f618ebb4c434edc0b2205f0c-7b59d7cf7d3467066af37e1ef2ee1891-1700753632-1700746432&remote=177.223.106.80
 
-#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAAQ7jx2AH311qWcR01vnK-uAoTzjNEQt9g&usqp=CAU" group-title="TV",UNIVERSAL CHANNEL
-http://contentzord.gelderland.ga:2095/live/universalchannel/chunks.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/SYFY.png" group-title="TV",SYFY
+https://tvembed.net/br/syfy/index.m3u8?token=4bb84b36263aa2594576e6cba93c48bce393222b-2dfa043c5cb7ec3512c379f621297f12-1700755514-1700748314&remote=177.223.106.80
+
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/Studio%20Universal.png" group-title="TV",STUDIO UNIVERSAL
+https://tvembed.net/br/studio-universal/index.m3u8?token=6335db29568f4addf3d98021cf65307d0a21101e-b738638d826b687ba8d2d6de68e025fa-1700755429-1700748229&remote=177.223.106.80
+
+#EXTINF:-1 tvg-id="universal.br" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/Universal%20Channel.png" group-title="TV",UNIVERSAL CHANNEL
+https://tvembed.net/br/universal/index.m3u8?token=6aa1f46b549a1663dfacc0178753435340bd7327-e683691cdb1417a674497ca9b72d197d-1700756003-1700748803&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="VIVA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-KX0Lr44YiCN1HVxIWs-NA44W2QQa8V7rAg&usqp=CAU" group-title="TV",VIVA
 http://contentzord.gelderland.ga:2095/live/viva/chunks.m3u8
@@ -139,7 +148,7 @@ https://tvembed.net/br/tc-fun/index.m3u8?token=e29acf80a405148c4dc31dd5f1fd6dcb9
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/Telecine%20Touch.png" group-title="TV",TELECINE TOUCH
 https://tvembed.net/br/tc-touch/index.m3u8?token=604ff3efe5feaf00a2e124ebdb0263c3c00eadaf-df89d17fb15e3486dcdcd88ed99a6844-1700754804-1700747604&remote=177.223.106.80
 
-#EXTINF:-1 tvg-id="warner.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmP-BLPpInM1oCwF-tSo6EDv1zg7vTuU3-Yg&usqp=CAU" group-title="TV",WARNER CHANNEL
+#EXTINF:-1 tvg-id="warner.br" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/Warner%20Channel.png" group-title="TV",WARNER CHANNEL
 http://contentzord.gelderland.ga:2095/live/warnerchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxMk4WGsAFSHvRVxaKbk2LN7cEIh2rcxZYKg&usqp=CAU" group-title="TV",DRAGON BALL SUPER T1
