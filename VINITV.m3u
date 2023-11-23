@@ -1,14 +1,13 @@
 #EXTM3U url-tvg="http://5ce.co/xmltv.php?username=RenanArtigas&password=Renan4000"
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsbiU7ObNeNxwrvmvGJPVKR5zFz__YkO3jA&usqp=CAU" group-title="TV",A&E
-http://contentzord.gelderland.ga:2095/live/ae/chunks.m3u8
+https://tvembed.net/br/ae/index.m3u8?token=5a007729175d8b9d8e95f3d786acc1be7a536468-e4f942d95414f72250a4332d323d1d08-1700749321-1700742121&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbY4Oe4QdOnXKVosTTX2pf-77LIoDAt3Df9A&usqp=CAU" group-title="TV",AXN
 http://contentzord.gelderland.ga:2095/live/axn/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzST4sZ-rZyfKPKfIb40IMhVprrjRENoLhs53HpA915rxmNY1taagv6OM4&s=10" group-title="TV",AMC
-http://163.172.218.239:8080/live/cristian2022/cristian2022/140477.ts?token=ThUKWEAMEQgXVg0CAA9WVAEGCAUAWwYHVldUAFEBBFNWB1QBBlIGBlRGFERDTREDVwlnWVRBDAADVAJSVRxAFEZSEGZaABEIF1cKVAEBQUoUEFFdVUEMAAFTBVdQCFJTBRtASVoAEQhbEVQKHBsGHkIBSl5RD2lVUhJfBgcSWA9AWw4VEQtdbVEBVQdeXUFcFFUaHBIKRUEVXlgQDlxOQ1deFktSEFYQDwpNClwVQQVZEVZEQhoUCxUmZEdOEgcZQVIMSloLXRAPRkwVEhVBD0U7SlVDF0RUVglTF0AKQFEXG0BUUhxsUVoKVgNTTQoJWBcaChJQFB0VCVkLC0QNE2pHC10RXl1HWQhF
-
+https://tvembed.net/br/amc/index.m3u8?token=480bee8a522762954dd1d7627a997a8f331d3894-50faf940f1b53ddb5e577fd833654c59-1700750062-1700742862&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGm8ZwRXuwevbcHRZAPH2nmrDwKjzceCDknQ&usqp=CAU" group-title="TV",BAND
 http://contentzord.gelderland.ga:2095/live/band/chunks.m3u8
@@ -37,32 +36,35 @@ http://contentzord.gelderland.ga:2095/live/espn4/chunks.m3u8
 #EXTINF:-1 tvg-id="fx.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjSionC5DU-xoNJ_l3jq2wezxW-kUFL40Gg&usqp=CAU" group-title="TV",FX
 http://contentzord.gelderland.ga:2095/live/fx/chunks.m3u8
 
+#EXTINF:-1 tvg-id="cinemax.br" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="TV",CINEMAX
+https://tvembed.net/br/cinemax/index.m3u8?token=2524dbe838b82bd55ad3d3a33b0f61e68c0da0f3-c3b8f7ed10950036baa5e52490875672-1700750949-1700743749&remote=177.223.106.80
+
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiPmAaXm177Y5H-45drhR7g3VMwcA4_kOmQ&usqp=CAU" group-title="TV",GLOBO
 http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlruf1I6N5WHCTb9nwTi3ZtZC6drqhDKv4Xw&usqp=CAU" group-title="TV",GLOOB
 http://contentzord.gelderland.ga:2095/live/gloob/chunks.m3u8
 
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Yvsp7i3MyI6Q3qSXo3-alqkeiE0j1XdIAw&usqp=CAU" group-title="TV",HBO +
-http://163.172.218.239:8080/live/cristian2022/cristian2022/140475.ts?token=ThUKWEAMEQgXUw1XAlpQU1NUCwdSVQAIBlIBVwZRAFQFDgRdVgBQBQVGFERDTREDVwlnWVRBDAADVAJSVxxAFEZSEGZaABEIF1cKVAEBQUoUEFFdVUEMAAFTBVdQB1BTAhtASVoAEQhbEVQKHBsGHkIBSl5RD2lVUhJfBgcSWA9AWw4VEQtdbVEBVQdeXUFcFFUaHBIKRUEVXlgQDlxOQ1deFktSEFYQDwpNClwVQQVZEVZEQhoUCxUmZEdOEgcZQVIMSloLXRAPRkwVEhVBD0U7SlVDF0RUVglTF0AKQFEXG0BUUhxsUVoKVgNTTQoJWBcaChJQFB0VCVkLC0QNE2pHC10RXl1HWQhF
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Yvsp7i3MyI6Q3qSXo3-alqkeiE0j1XdIAw&usqp=CAU" group-title="TV",HBO PLUS
+https://tvembed.net/br/hbo-plus/index.m3u8?token=dbffdd07d532f7e923ee9d6782476db9697a0a6a-d79095e7e6dc61f6e085a0625dfb1849-1700752422-1700745222&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Siew6A0QoM7I8ACxfpyNtVgqi2VcuQrEMQ&usqp=CAU" group-title="TV",HBO FAMILY
-http://163.172.218.239:8080/live/cristian2022/cristian2022/140474.ts?token=ThUKWEAMEQgXU1peBFtXVQIFXgBUVgQEB1MAUFpRA1lWUVJdCwcEUVNGFERDTREDVwlnWVRBDAADVAJSVhxAFEZSEGZaABEIF1cKVAEBQUoUEFFdVUEMAAFTBVdQB1JYBBtASVoAEQhbEVQKHBsGHkIBSl5RD2lVUhJfBgcSWA9AWw4VEQtdbVEBVQdeXUFcFFUaHBIKRUEVXlgQDlxOQ1deFktSEFYQDwpNClwVQQVZEVZEQhoUCxUmZEdOEgcZQVIMSloLXRAPRkwVEhVBD0U7SlVDF0RUVglTF0AKQFEXG0BUUhxsUVoKVgNTTQoJWBcaChJQFB0VCVkLC0QNE2pHC10RXl1HWQhF
+https://tvembed.net/br/hbo-family/index.m3u8?token=46f81797b87b837d97b39d2be47fd41f03d41f8f-19d3e81e99c7a53ce5fd0b7368bf996a-1700752314-1700745114&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCo4vtTkThaC7CqrC1Oic5YhP8co-dsaX7Q&usqp=CAU" group-title="TV",HBO SIGNATURE
-http://163.172.218.239:8080/live/cristian2022/cristian2022/140470.ts?token=ThUKWEAMEQgXVwtWBQtUA1RTXlQFUQcHVFJVBFVWBFgDAANfVVUBVlRGFERDTREDVwlnWVRBDAADVAJSUhxAFEZSEGZaABEIF1cKVAEBQUoUEFFdVUEMAAFTBVdQBFRTAxtASVoAEQhbEVQKHBsGHkIBSl5RD2lVUhJfBgcSWA9AWw4VEQtdbVEBVQdeXUFcFFUaHBIKRUEVXlgQDlxOQ1deFktSEFYQDwpNClwVQQVZEVZEQhoUCxUmZEdOEgcZQVIMSloLXRAPRkwVEhVBD0U7SlVDF0RUVglTF0AKQFEXG0BUUhxsUVoKVgNTTQoJWBcaChJQFB0VCVkLC0QNE2pHC10RXl1HWQhF
+https://tvembed.net/br/hbo-signature/index.m3u8?token=0a1dfb67bd92c69500c1e0371f0bcadb96e770ae-7ce11be2869225e05eefd28b606f7747-1700752485-1700745285&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="TV",HBO XTREME
-http://163.172.218.239:8080/live/cristian2022/cristian2022/140473.ts?token=ThUKWEAMEQgXUFtXBgoAUA8HWQBWUAECB1RXB1oHVFICD1BaAgABBVFGFERDTREDVwlnWVRBDAADVAJSURxAFEZSEGZaABEIF1cKVAEBQUoUEFFdVUEMAAFTBVdQA1JVABtASVoAEQgXVQxeBwtBShQBQERVEVhQWztSABRZAQQXDQxMXwgfEFoKZwJVVAIIUkYCEgFBGhNeF0ZHWF4XDVkbQFtaEEFTQQEaXF5MDwoaRltfRQ1CQ05GDEcgYkBNF1IaTVYKQFtaChpcEk0QRBpGUUNvEVNCQxZTBA9VEEMPFVIbH0ZeU007WwleVwYFQg1XXkNBDBMERhpHD18MCEFYEGZDDVcQD0YJUggKUURL
+https://tvembed.net/br/hbo-xtreme/index.m3u8?token=3ace87bf0de8f6cdf2a1d33d0b5e7fb334b0c118-30f29517a5573a67bdd3be55a407bb48-1700752512-1700745312&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqibnXIqBHbTYK5ld13lVPRhm8weoShtV4og&usqp=CAU" group-title="TV",HBO
-http://contentzord.gelderland.ga:2095/live/hbo/chunks.m3u8
+https://tvembed.net/br/hbo/index.m3u8?token=3cde71868f56d013defee098ff577ecb65350091-89cf93443aae972daa6f0ee3ea247ae0-1700751579-1700744379&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyVZAeGflS6d3_7zeG0088qT_wKmE95xQR7GqGZg&s" group-title="TV",HBO 2
-http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8
+https://tvembed.net/br/hbo2/index.m3u8?token=d9a47515b242ec2a85174407e108121e96691e7e-f099f4cddcfa5a5405dbf024dfe0783a-1700752373-1700745173&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIXCTA443p5t1pcyK4v8th2zx360OARpY3w&usqp=CAU" group-title="TV",MEGAPIX
-http://contentzord.gelderland.ga:2095/live/megapix/chunks.m3u8
+https://tvembed.net/br/megapix/index.m3u8?token=5ae95d8f1e66dfe8cfc1f559744299cc146a18a4-fdca8ea77ef610b71eeb83fc2bbb8221-1700752551-1700745351&remote=177.223.106.80
 
 #EXTINF:-1 tvg-id="nick.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDffzEpGFywxvcAFlz_-P0UUZPLNrvE4h_nA&usqp=CAU" group-title="TV",NICKELODEON
 http://contentzord.gelderland.ga:2095/live/nickelodeon/chunks.m3u8
