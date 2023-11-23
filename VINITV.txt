@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://5ce.co/xmltv.php?username=RenanArtigas&password=Renan4000"
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsbiU7ObNeNxwrvmvGJPVKR5zFz__YkO3jA&usqp=CAU" group-title="TV",A&E
-https://tvembed.net/br/ae/index.m3u8?token=5a007729175d8b9d8e95f3d786acc1be7a536468-e4f942d95414f72250a4332d323d1d08-1700749321-1700742121&remote=177.223.106.80
+https://tvembed.net/br/ae/index.m3u8?token=70820c14a3cbe8b775b2151e90e70de64ee59a0e-10056f9753d5f68838b2f1f7d6187c3c-1700770573-1700763373&remote=177.223.106.77
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://piratetv.pro/wp-content/themes/Pirate%20TV%20PRO%20theme/assets/images/canais/AXN.png" group-title="TV",AXN
 https://tvembed.net/br/axn/index.m3u8?token=6d41b31b4d899c4bffd982488713a0183ff2ed98-e7a4633c6d28e6d9db7c74eb5938f131-1700755244-1700748044&remote=177.223.106.80
