@@ -76,7 +76,7 @@ https://tvembed.net/br/megapix/index.m3u8?token=5ae95d8f1e66dfe8cfc1f559744299cc
 http://contentzord.gelderland.ga:2095/live/nickelodeon/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RECORD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_l1caOjpYiX5Aa-qsoiVRpzR6MIB5X_rdlFosvRdAacsDtO75aDxnRQ&s=10" group-title="TV",RECORD TV
-http://contentzord.gelderland.ga:2095/live/record/chunks.m3u8
+https://tvembed.net/record/index.m3u8?token=3dd1f858d6dd11ca7f4e90d2f65302b4852e26a0-4fcf74dd23c63bba540968778573f392-1700926259-1700919059&remote=177.223.106.77
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBjVRm466ITltSYv9BQefiiDk1NTSIM-y2Q&usqp=CAU" group-title="TV",SPORTV
 http://contentzord.gelderland.ga:2095/live/sportv/chunks.m3u8
